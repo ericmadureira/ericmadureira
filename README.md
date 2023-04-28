@@ -9,6 +9,6 @@
    <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>
   <a href="[https://www.linkedin.com/in/ericm](https://www.linkedin.com/in/eric-madureira/)">
-    <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+    <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
