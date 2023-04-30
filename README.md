@@ -1,4 +1,5 @@
 # Hi there 👋
+Software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
 
 ## Contact Me
 <p>
