@@ -1,6 +1,20 @@
 # Hi there 👋
 <p>Software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
 <b>Learn and share is the way.</b></p>
+
+## My tech skills are:
+  <ul>
+  <li>React</li>
+  <li>Typescript</li>
+  <li>Node</li>
+  <li>Javascript</li>
+  <li>HTML5/CSS3</li>
+  <li>Git</li>
+  <li>Redux</li>
+  <li>Testing (RTL, Jest, Enzyme)</li>
+  <li>Scrum (agile methodology)</li>
+</ul>
+
 ## Contact Me
 <p>
   Feel free to reach out, be it some question or just to hangout and talk 😉
