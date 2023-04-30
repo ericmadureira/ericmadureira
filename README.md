@@ -1,6 +1,6 @@
 # Hi there 👋
-Software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
-<b>Learn and share is the way.</b>
+<p>Software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
+<b>Learn and share is the way.</b></p>
 ## Contact Me
 <p>
   Feel free to reach out, be it some question or just to hangout and talk 😉
