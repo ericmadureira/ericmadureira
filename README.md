@@ -4,15 +4,9 @@
 
 ## My tech skills are:
   <ul>
-  <li>React</li>
-  <li>Typescript</li>
-  <li>Node</li>
-  <li>Javascript</li>
-  <li>HTML5/CSS3</li>
-  <li>Git</li>
-  <li>Redux</li>
-  <li>Testing (RTL, Jest, Enzyme)</li>
-  <li>Scrum (agile methodology)</li>
+  <li>Typescript | Javascript | Python | HTML5 | CSS3</li>
+  <li>React | Redux | Node</li>
+  <li>Git | RTL | Jest | Enzyme | Scrum</li>
 </ul>
 
 ## Contact Me
