@@ -21,3 +21,6 @@
     <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+## Feeling demotivated about software engineering?
+<p>You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. Learn and share is the way.</p>
