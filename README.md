@@ -1,6 +1,5 @@
 # Hi there 👋
 I'm a software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
-<b>Learn and share is the way.</b>
 
 ## My tech skills are:
 <ul>
@@ -19,4 +18,4 @@ I'm a software Engineer with 7 years of experience that always looks for fun and
 </a>
 
 ## Feeling demotivated about your career?
-You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. Learn and share is the way.
+You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. <b>Learn and share is the way.</b>
