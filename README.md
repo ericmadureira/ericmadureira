@@ -15,14 +15,14 @@
   <br />
   <br />
   <a target="_blank" href="mailto:ericmadureira.uesc@gmail.com">
-   <img align="left" alt="Email" width="150" hight="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   <img align="left" alt="Email" width="150" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/eric-madureira/">
-    <img align="left" alt="Linkedin" width="150" hight="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="left" alt="Linkedin" width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ## Feeling demotivated about your career?
 <div>
-  <p>You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. Learn and share is the way.</p>
+  <span>You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. Learn and share is the way.</span>
 </div>
