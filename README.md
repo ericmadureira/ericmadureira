@@ -4,7 +4,7 @@ I'm a software Engineer with 7 years of experience that always looks for fun and
 ## My tech skills are:
 <ul>
   <li>Typescript | Javascript | Python | HTML5 | CSS3</li>
-  <li>React | Redux | Node</li>
+  <li>React | Redux | Next | Node | Express</li>
   <li>Git | RTL | Jest | Enzyme | Scrum</li>
 </ul>
 
