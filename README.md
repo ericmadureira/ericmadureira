@@ -20,3 +20,5 @@ Dedicated, team-oriented and frontend-focused Full Stack Engineer with 7+ years 
 
 ## Extra
 You probably will make technical mistakes and won't perform perfectly all the time during your career, like everybody else, so forgive yourself, learn from mistakes and enjoy life. Learn and share is the way.
+
+I like games, plants, walking and dogs :)
