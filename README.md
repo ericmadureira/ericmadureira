@@ -1,21 +1,22 @@
-# Hi there 👋
-I'm a software Engineer with 7 years of experience that always looks for fun and challenging experiences. I'm interested in web development with React, Typescript and Node.
+# Hello there 👋💚
+You probably will make technical mistakes and won't perform perfectly all the time during your career, like everybody else, so forgive yourself, learn from mistakes and enjoy life. Learn and share is the way.
 
-## My tech skills are:
-<ul>
-  <li>Typescript | Javascript | Python | HTML5 | CSS3</li>
-  <li>React | Redux | Next | Node | Express</li>
-  <li>Git | React Testing Library | Jest | Enzyme | Scrum</li>
+## Skills
+<ul>  
+  <li>Javascript | Typescript | React | Redux | jQuery | HTML5 | CSS3 | Node | Express | NoSQL | Git |</li>
+  <li>CI/CD | Jest | Unit testing | Automated tests | Jest | React testing library (RTL) | Enzyme | OOP |</li>
+  <li>Functional Programming | Microservices | Lambda | Distributed systems | Frontend | Backend | Full-Stack |</li>
+  <li>Architecture | System design | API communication | Web development | Accessibility A11y | Scrum | Agile</li>
 </ul>
 
 ## Contact Me
-<p>Feel free to reach out, be it some question or just to hangout and talk 😉</p>
-<a target="_blank" href="mailto:ericmadureira.uesc@gmail.com">
+<p>Feel free to reach out in portuguese or english 😉</p>
+<a target="_blank" href="mailto:ericmadu416@gmail.com">
   <img alt="Email" width="150" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/eric-madureira/">
   <img alt="Linkedin" width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## Feeling demotivated about your career?
-You WILL make technical mistakes and behave inconsistently during your career, and it's fine. Just be humble, own what you did and try to learn from it. <b>Learn and share is the way.</b>
+## Extra
+You probably will make technical mistakes and won't perform perfectly all the time during your career, like everybody else, so forgive yourself, learn from mistakes and enjoy life. Learn and share is the way.
