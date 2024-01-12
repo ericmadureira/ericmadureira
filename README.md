@@ -1,5 +1,5 @@
 # Hello there 👋💚
-You probably will make technical mistakes and won't perform perfectly all the time during your career, like everybody else, so forgive yourself, learn from mistakes and enjoy life. Learn and share is the way.
+Dedicated, team-oriented and frontend-focused Full Stack Engineer with 7+ years of experience and solid knowledge in Javascript, React, Typescript and NodeJS.
 
 ## Skills
 <ul>  
