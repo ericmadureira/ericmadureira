@@ -1,5 +1,9 @@
 # Hello there 👋💚
-Dedicated, team-oriented and frontend-focused Full Stack Engineer with 7+ years of experience and solid knowledge in Javascript, React, Typescript and NodeJS.
+Dedicated React Frontend Engineer
+
+6.5 years of experience building high-performant web applications with React, JavaScript, TypeScript and NodeJs.
+
+Open to opportunities that involve cross-functional teams, and leverage my passion for building impactful web experiences.
 
 ## Skills
 <ul>  
@@ -18,7 +22,5 @@ Dedicated, team-oriented and frontend-focused Full Stack Engineer with 7+ years 
   <img alt="Linkedin" width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## Extra
-You probably will make technical mistakes and won't perform perfectly all the time during your career, like everybody else, so forgive yourself, learn from mistakes and enjoy life. Learn and share is the way.
-
-I like games, plants, walking and dogs :)
+## Personal
+I like games, plants, dogs and walking :)
