@@ -1,7 +1,7 @@
 # Hello there 👋💚
 Dedicated React Frontend Engineer
 
-6.5 years of experience building high-performant web applications with React, JavaScript, TypeScript and NodeJs.
+7 years of experience building high-performant web applications with React, JavaScript, TypeScript and NodeJs.
 
 Open to opportunities that involve cross-functional teams, and leverage my passion for building impactful web experiences.
 
@@ -14,7 +14,7 @@ Open to opportunities that involve cross-functional teams, and leverage my passi
 </ul>
 
 ## Contact Me
-<p>Feel free to reach out in portuguese or english 😉</p>
+<p>Feel free to reach out in portuguese, english or spanish 😉</p>
 <a target="_blank" href="mailto:ericmadu416@gmail.com">
   <img alt="Email" width="150" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -23,4 +23,4 @@ Open to opportunities that involve cross-functional teams, and leverage my passi
 </a>
 
 ## Personal
-I like games, plants, dogs and walking :)
+I like games / plants / dogs / walking / technology :)
