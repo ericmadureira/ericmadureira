@@ -1,7 +1,7 @@
 # Hello there 👋💚
-Dedicated React Frontend Engineer
+Dedicated Full Stack Engineer
 
-7 years of experience building high-performant web applications with React, JavaScript, TypeScript and NodeJs.
+Experient building high-performant web applications with React, JavaScript, TypeScript, and some NodeJs or Ruby on Rails too.
 
 Open to opportunities that involve cross-functional teams, and leverage my passion for building impactful web experiences.
 
